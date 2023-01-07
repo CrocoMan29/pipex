@@ -6,11 +6,11 @@
 /*   By: yismaail <yismaail@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/30 08:24:18 by yismaail          #+#    #+#             */
-/*   Updated: 2022/12/31 07:49:47 by yismaail         ###   ########.fr       */
+/*   Updated: 2023/01/07 14:59:02 by yismaail         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../src/pipex.h"
+#include "libft.h"
 
 char	*ft_substr(char const *s, unsigned int start, size_t len)
 {

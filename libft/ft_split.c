@@ -6,11 +6,11 @@
 /*   By: yismaail <yismaail@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/30 08:20:21 by yismaail          #+#    #+#             */
-/*   Updated: 2023/01/02 07:10:04 by yismaail         ###   ########.fr       */
+/*   Updated: 2023/01/07 14:58:56 by yismaail         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../src/pipex.h"
+#include "libft.h"
 
 static int	wd_count(const char *s, char c)
 {
